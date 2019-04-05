@@ -41,7 +41,7 @@ Para testar a aplicação, execute os seguintes passos:
 
 5. Abra o projeto com o jupyter notebook:
 ```
-    $ jupyter notebook lista1_algoritmos_busca.ipynb
+    $ jupyter notebook lista2_algoritmos_busca.ipynb
 ```
 
 **Observação:** caso queira desativar o ambiente, digite `conda deactivate`; já se quiser remover o ambiente criado anteriormente, digite `conda env remove -n sort_algorithms`.
