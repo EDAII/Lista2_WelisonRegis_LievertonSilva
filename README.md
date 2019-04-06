@@ -6,8 +6,11 @@ Lieverton Santos Silva - 2019.1
 
 ## PROPOSTA
 
-TO EDIT
-
+- Utilizou-se os algoritmos quadráticos **`insertion sort`, `selection sort`, `bubble sort` e `shell sort` aplicados em um `dataset`** (arquivo "data.csv") do jogo FIFA 19.
+- O arquivo **`csv`** proposto possui o registro de **18208 jogadores descritos por 89 atributos**. Para o dado problema, utilizou-se todos os registros dos jogadores filtrando os campos de interesse — ID (não sequencial), nome, foto do jogador, nacionalidade, nome do clube e logo do clube.
+- O objetivo do atual `notebook` é utilizar os algoritmos de ordenação para **separar os jogadores por clubes (literais)** e, ao final, **gerar um jogador aleatório e apresentar todo o elenco do clube ao qual pertence o atleta**.
+- É representado também a **comparação gráfica (histograma) dos algoritmos de ordenação** com a lista totalmente desordenada, assim como também é apresentado o desempenho dos mesmos algoritmos caso estejam passando em uma lista já ordenada.
+- Ao final, é **apresentada a logo do clube e todos os jogadores que compõem o elenco com suas respectivas fotos e descrições**.
 
 ## PRÉ-REQUISITO(S)
 O projeto utiliza variável de ambiente (env) para a devida execução. Portanto:
